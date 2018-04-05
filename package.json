@@ -1,0 +1,24 @@
+{
+  "name": "express-ws",
+  "version": "0.0.1",
+  "description": "express websocket ws",
+  "main": "bin/www",
+  "scripts": {
+    "test": "node  ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavhov/express-ws.git"
+  },
+  "keywords": [
+    "express",
+    "websocket",
+    "ws"
+  ],
+  "author": "Pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavhov/express-ws/issues"
+  },
+  "homepage": "https://github.com/pavhov/express-ws#readme"
+}
